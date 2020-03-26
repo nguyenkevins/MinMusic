@@ -17,4 +17,4 @@ This project utilizes Android SDK in order to create an Android application.
 * Android SDK
 * Gradle - Dependency Management 
 
-![Demo1](https://github.com/nguyenkevins/Discord-ImageSource/blob/master/src/main/java/com/zerobit/bot/image/Demo1.PNG)
+![Demo1](https://github.com/nguyenkevins/Discord-ImageSource/app/src/main/res/MusicScreenShot.jpg)
