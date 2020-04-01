@@ -3,5 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="select">#C80BC8</color>
+    <drawable name="select">#C80BC8</drawable>
 
 </resources>

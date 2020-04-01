@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="#000000"
     tools:context=".MainActivity">
+
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
@@ -15,10 +16,46 @@
         android:layout_marginLeft="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:background="#FFFFFF"
+        android:background="#ffffff"
+        android:clickable="true"
+
+
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/bottomTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Now playing: "
+        android:background="#222222"
+        android:clickable="true"
+        android:padding="20dp"
+        android:textColor="#ffffff"
+        android:textSize="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <SeekBar
+
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="#000000"
+        android:clickable="false"
+        android:paddingLeft="32dp"
+        android:paddingTop="32dp"
+        android:paddingRight="132dp"
+        android:paddingBottom="30dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
