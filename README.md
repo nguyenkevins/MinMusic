@@ -1,4 +1,4 @@
-# MinMusic (Android)
+# Android Music
 
 ### Currently in-progress / 60% Completion
 ### In-Progress: Allow songs to play / Playlist Functionality / Color Theme
