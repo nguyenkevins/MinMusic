@@ -3,7 +3,7 @@
 ![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/picA.jpg)
 
 ### Currently in-progress / 60% Completion
-### In-Progress: Playlist Functionality / Color Theme / Other Minor Bugs
+### In-Progress: Playlist Functionality / Color Theme / Other Minor Bug Fix
 
 ## Summary
 An android exclusive music application that allow user to play their music from their music directory. With the carefully placed designs and the efficient coding, the app can maximize simplicity while managing good use of battery life.
