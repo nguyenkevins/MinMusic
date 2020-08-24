@@ -2,7 +2,7 @@
 
 ![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/picA.jpg)
 
-### Currently in-progress / 60% Completion
+### Currently in-progress / 85% Completion
 ### In-Progress: Playlist Functionality / Color Theme / Other Minor Bug Fix
 
 ## Summary
