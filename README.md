@@ -1,5 +1,7 @@
 # Android Music
 
+![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/picA.jpg)
+
 ### Currently in-progress / 60% Completion
 ### In-Progress: Allow songs to play / Playlist Functionality / Color Theme
 
@@ -17,4 +19,4 @@ This project utilizes Android SDK in order to create an Android application.
 * Android SDK
 * Gradle - Dependency Management 
 
-![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/MusicScreenShot.jpg)
+
