@@ -6,7 +6,7 @@
 ### In-Progress: Playlist Functionality / Color Theme / Other Minor Bug Fix
 
 ## Summary
-An android exclusive music application that allow user to play their music from their music directory. With the carefully placed designs and efficient coding, the app can maximize simplicity while managing good use of battery life.
+An android exclusive music application that allow user to play their music from their music directory. With the carefully placed designs and efficient coding, the music app can maximize simplicity while managing good use of battery life.
 
 This project utilizes Android SDK in order to create an Android application.
 
