@@ -1,6 +1,6 @@
 # Android Music
 
-![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/picA.jpg)
+![Demo1](https://github.com/nguyenkevins/android_music/blob/master/app/src/main/res/Android%20Music.png)
 
 ### Currently in-progress / 85% Completion
 ### In-Progress: Playlist Functionality / Color Theme / Other Minor Bug Fix
